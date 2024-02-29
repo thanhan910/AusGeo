@@ -9,3 +9,6 @@ STATE_CODE_2021,STATE_NAME_2021,CHANGE_FLAG_2021,AREA_ALBERS_SQKM,AUS_CODE_2021
 8,Australian Capital Territory,0,2358.133,AUS
 9,Other Territories,0,255.742,AUS
 Z,Outside Australia,1,,ZZZ
+&,POW not stated,,,AUS
+@,POW not applicable,,,AUS
+V,Overseas visitor,,,AUS

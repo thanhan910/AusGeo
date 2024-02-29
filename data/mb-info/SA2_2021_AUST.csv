@@ -2472,3 +2472,6 @@ SA2_CODE_2021,SA2_NAME_2021,CHANGE_FLAG_2021,AREA_ALBERS_SQKM,SA3_CODE_2021
 997979799,Migratory - Offshore - Shipping (OT),0,,99797
 999999499,No usual address (OT),0,,99999
 ZZZZZZZZZ,Outside Australia,1,,ZZZZZ
+&&&&&&&&&,POW not stated,,,
+@@@@@@@@@,POW not applicable,,,
+VVVVVVVVV,Overseas visitor,,,
