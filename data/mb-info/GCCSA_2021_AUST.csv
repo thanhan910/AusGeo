@@ -1,0 +1,36 @@
+GCCSA_CODE_2021,GCCSA_NAME_2021,CHANGE_FLAG_2021,AREA_ALBERS_SQKM,STATE_CODE_2021
+1GSYD,Greater Sydney,0,12368.6858,1
+1RNSW,Rest of NSW,0,788428.9733,1
+19499,No usual address (NSW),0,,1
+19799,Migratory - Offshore - Shipping (NSW),0,,1
+2GMEL,Greater Melbourne,0,9992.6081,2
+2RVIC,Rest of Vic.,0,217503.6398,2
+29499,No usual address (Vic.),0,,2
+29799,Migratory - Offshore - Shipping (Vic.),0,,2
+3GBRI,Greater Brisbane,0,15842.0073,3
+3RQLD,Rest of Qld,0,1714329.2135,3
+39499,No usual address (Qld),0,,3
+39799,Migratory - Offshore - Shipping (Qld),0,,3
+4GADE,Greater Adelaide,0,3259.8859,4
+4RSAU,Rest of SA,0,980971.5343,4
+49499,No usual address (SA),0,,4
+49799,Migratory - Offshore - Shipping (SA),0,,4
+5GPER,Greater Perth,0,6416.5721,5
+5RWAU,Rest of WA,0,2520215.9104,5
+59499,No usual address (WA),0,,5
+59799,Migratory - Offshore - Shipping (WA),0,,5
+6GHOB,Greater Hobart,0,1695.3611,6
+6RTAS,Rest of Tas.,0,66322.1782,6
+69499,No usual address (Tas.),0,,6
+69799,Migratory - Offshore - Shipping (Tas.),0,,6
+7GDAR,Greater Darwin,0,3167.7034,7
+7RNTE,Rest of NT,0,1344966.7897,7
+79499,No usual address (NT),0,,7
+79799,Migratory - Offshore - Shipping (NT),0,,7
+8ACTE,Australian Capital Territory,0,2358.133,8
+89499,No usual address (ACT),0,,8
+89799,Migratory - Offshore - Shipping (ACT),0,,8
+9OTER,Other Territories,0,255.742,9
+99499,No usual address (OT),0,,9
+99799,Migratory - Offshore - Shipping (OT),0,,9
+ZZZZZ,Outside Australia,1,,Z

@@ -1,0 +1,60 @@
+IREG_CODE_2021,IREG_NAME_2021,AREA_ALBERS_SQKM,STATE_CODE_2021
+101,Dubbo,59121.071,1
+102,North-Eastern NSW,110612.3167,1
+103,North-Western NSW,285887.4955,1
+104,NSW Central and North Coast,54906.7504,1
+105,Riverina - Orange,223988.177,1
+106,South-Eastern NSW,54782.9815,1
+107,Sydney - Wollongong,11498.867,1
+194,No usual address (NSW),,1
+197,Migratory - Offshore - Shipping (NSW),,1
+201,Melbourne,8833.2243,2
+202,Victoria exc. Melbourne,218663.0236,2
+294,No usual address (Vic.),,2
+297,Migratory - Offshore - Shipping (Vic.),,2
+301,Brisbane,22315.8919,3
+303,Cape York,128897.0344,3
+304,Mount Isa,448743.2177,3
+305,Rockhampton,333893.5131,3
+306,Toowoomba - Roma,473754.0047,3
+307,Torres Strait,879.1507,3
+309,Cairns - Atherton,142439.3558,3
+310,Townsville - Mackay,179249.0525,3
+394,No usual address (Qld),,3
+397,Migratory - Offshore - Shipping (Qld),,3
+401,Adelaide,85301.2117,4
+402,Port Augusta,668589.6314,4
+403,Port Lincoln - Ceduna,230340.5771,4
+494,No usual address (SA),,4
+497,Migratory - Offshore - Shipping (SA),,4
+501,Broome,55393.548,5
+502,Geraldton,414083.5446,5
+503,Kalgoorlie,951482.769,5
+504,Kununurra,253052.6246,5
+505,Perth,5383.7092,5
+506,South Hedland,513256.5641,5
+507,South-Western WA,223180.8074,5
+508,West Kimberley,110798.9156,5
+594,No usual address (WA),,5
+597,Migratory - Offshore - Shipping (WA),,5
+601,Tasmania,68017.5393,6
+694,No usual address (Tas.),,6
+697,Migratory - Offshore - Shipping (Tas.),,6
+703,Darwin,10990.3806,7
+704,Jabiru - Tiwi,104472.1761,7
+705,Katherine,321835.2135,7
+706,Nhulunbuy,38025.1366,7
+707,Tennant Creek,303211.1804,7
+708,Alice Springs,327.7132,7
+709,Apatula,569272.6927,7
+794,No usual address (NT),,7
+797,Migratory - Offshore - Shipping (NT),,7
+801,ACT,2358.133,8
+894,No usual address (ACT),,8
+897,Migratory - Offshore - Shipping (ACT),,8
+901,Christmas - Cocos (Keeling) Is.,149.8614,9
+902,Jervis Bay,67.2296,9
+903,Norfolk Island,38.651,9
+994,No usual address (OT),,9
+997,Migratory - Offshore - Shipping (OT),,9
+ZZZ,Outside Australia,,Z

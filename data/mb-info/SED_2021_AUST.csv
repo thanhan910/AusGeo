@@ -1,0 +1,453 @@
+SED_CODE_2021,SED_NAME_2021
+10001,Albury
+10002,Auburn
+10003,Ballina
+10004,Balmain
+10005,Bankstown
+10006,Barwon
+10007,Bathurst
+10008,Baulkham Hills
+10009,Bega
+10010,Blacktown
+10011,Blue Mountains
+10012,Cabramatta
+10013,Camden
+10014,Campbelltown
+10015,Canterbury
+10016,Castle Hill
+10017,Cessnock
+10018,Charlestown
+10019,Clarence
+10020,Coffs Harbour
+10021,Coogee
+10022,Cootamundra
+10023,Cronulla
+10024,Davidson
+10025,Drummoyne
+10026,Dubbo
+10027,East Hills
+10028,Epping
+10029,Fairfield
+10030,Gosford
+10031,Goulburn
+10032,Granville
+10033,Hawkesbury
+10034,Heathcote
+10035,Heffron
+10036,Holsworthy
+10037,Hornsby
+10038,Keira
+10039,Kiama
+10040,Kogarah
+10041,Ku-ring-gai
+10042,Lake Macquarie
+10043,Lakemba
+10044,Lane Cove
+10045,Lismore
+10046,Liverpool
+10047,Londonderry
+10048,Macquarie Fields
+10049,Maitland
+10050,Manly
+10051,Maroubra
+10052,Miranda
+10053,Monaro
+10054,Mount Druitt
+10055,Mulgoa
+10056,Murray
+10057,Myall Lakes
+10058,Newcastle
+10059,Newtown
+10060,North Shore
+10061,Northern Tablelands
+10062,Oatley
+10063,Orange
+10064,Oxley
+10065,Parramatta
+10066,Penrith
+10067,Pittwater
+10068,Port Macquarie
+10069,Port Stephens
+10070,Prospect
+10071,Riverstone
+10072,Rockdale
+10073,Ryde
+10074,Seven Hills
+10075,Shellharbour
+10076,South Coast
+10077,Strathfield
+10078,Summer Hill
+10079,Swansea
+10080,Sydney
+10081,Tamworth
+10082,Terrigal
+10083,The Entrance
+10084,Tweed
+10085,Upper Hunter
+10086,Vaucluse
+10087,Wagga Wagga
+10088,Wakehurst
+10089,Wallsend
+10090,Willoughby
+10091,Wollondilly
+10092,Wollongong
+10093,Wyong
+19494,No usual address (NSW)
+19797,Migratory - Offshore - Shipping (NSW)
+20106,Albert Park (Southern Metropolitan)
+20207,Altona (Western Metropolitan)
+20302,Bass (Eastern Victoria)
+20401,Bayswater (Eastern Metropolitan)
+20508,Bellarine (Western Victoria)
+20604,Benambra (Northern Victoria)
+20704,Bendigo East (Northern Victoria)
+20804,Bendigo West (Northern Victoria)
+20906,Bentleigh (Southern Metropolitan)
+21001,Box Hill (Eastern Metropolitan)
+21106,Brighton (Southern Metropolitan)
+21203,Broadmeadows (Northern Metropolitan)
+21303,Brunswick (Northern Metropolitan)
+21401,Bulleen (Eastern Metropolitan)
+21503,Bundoora (Northern Metropolitan)
+21608,Buninyong (Western Victoria)
+21706,Burwood (Southern Metropolitan)
+21805,Carrum (South-Eastern Metropolitan)
+21906,Caulfield (Southern Metropolitan)
+22005,Clarinda (South-Eastern Metropolitan)
+22105,Cranbourne (South-Eastern Metropolitan)
+22201,Croydon (Eastern Metropolitan)
+22305,Dandenong (South-Eastern Metropolitan)
+22404,Eildon (Northern Victoria)
+22501,Eltham (Eastern Metropolitan)
+22607,Essendon (Western Metropolitan)
+22704,Euroa (Northern Victoria)
+22802,Evelyn (Eastern Victoria)
+22901,Ferntree Gully (Eastern Metropolitan)
+23007,Footscray (Western Metropolitan)
+23101,Forest Hill (Eastern Metropolitan)
+23205,Frankston (South-Eastern Metropolitan)
+23308,Geelong (Western Victoria)
+23402,Gembrook (Eastern Victoria)
+23502,Gippsland East (Eastern Victoria)
+23602,Gippsland South (Eastern Victoria)
+23702,Hastings (Eastern Victoria)
+23806,Hawthorn (Southern Metropolitan)
+23901,Ivanhoe (Eastern Metropolitan)
+24006,Kew (Southern Metropolitan)
+24105,Keysborough (South-Eastern Metropolitan)
+24207,Kororoit (Western Metropolitan)
+24308,Lara (Western Victoria)
+24408,Lowan (Western Victoria)
+24504,Macedon (Northern Victoria)
+24606,Malvern (Southern Metropolitan)
+24703,Melbourne (Northern Metropolitan)
+24808,Melton (Western Victoria)
+24904,Mildura (Northern Victoria)
+25003,Mill Park (Northern Metropolitan)
+25102,Monbulk (Eastern Victoria)
+25205,Mordialloc (South-Eastern Metropolitan)
+25302,Mornington (Eastern Victoria)
+25402,Morwell (Eastern Victoria)
+25501,Mount Waverley (Eastern Metropolitan)
+25605,Mulgrave (South-Eastern Metropolitan)
+25704,Murray Plains (Northern Victoria)
+25802,Narracan (Eastern Victoria)
+25905,Narre Warren North (South-Eastern Metropolitan)
+26005,Narre Warren South (South-Eastern Metropolitan)
+26102,Nepean (Eastern Victoria)
+26207,Niddrie (Western Metropolitan)
+26303,Northcote (Northern Metropolitan)
+26406,Oakleigh (Southern Metropolitan)
+26504,Ovens Valley (Northern Victoria)
+26603,Pascoe Vale (Northern Metropolitan)
+26708,Polwarth (Western Victoria)
+26806,Prahran (Southern Metropolitan)
+26903,Preston (Northern Metropolitan)
+27003,Richmond (Northern Metropolitan)
+27101,Ringwood (Eastern Metropolitan)
+27208,Ripon (Western Victoria)
+27305,Rowville (South-Eastern Metropolitan)
+27406,Sandringham (Southern Metropolitan)
+27504,Shepparton (Northern Victoria)
+27608,South Barwon (Western Victoria)
+27708,South-West Coast (Western Victoria)
+27807,St Albans (Western Metropolitan)
+27907,Sunbury (Western Metropolitan)
+28007,Sydenham (Western Metropolitan)
+28107,Tarneit (Western Metropolitan)
+28203,Thomastown (Northern Metropolitan)
+28301,Warrandyte (Eastern Metropolitan)
+28408,Wendouree (Western Victoria)
+28507,Werribee (Western Metropolitan)
+28607,Williamstown (Western Metropolitan)
+28704,Yan Yean (Northern Victoria)
+28803,Yuroke (Northern Metropolitan)
+29494,No usual address (Vic.)
+29797,Migratory - Offshore - Shipping (Vic.)
+30001,Algester
+30002,Aspley
+30003,Bancroft
+30004,Barron River
+30005,Bonney
+30006,Broadwater
+30007,Buderim
+30008,Bulimba
+30009,Bundaberg
+30010,Bundamba
+30011,Burdekin
+30012,Burleigh
+30013,Burnett
+30014,Cairns
+30015,Callide
+30016,Caloundra
+30017,Capalaba
+30018,Chatsworth
+30019,Clayfield
+30020,Condamine
+30021,Cook
+30022,Coomera
+30023,Cooper
+30024,Currumbin
+30025,Everton
+30026,Ferny Grove
+30027,Gaven
+30028,Gladstone
+30029,Glass House
+30030,Greenslopes
+30031,Gregory
+30032,Gympie
+30033,Hervey Bay
+30034,Hill
+30035,Hinchinbrook
+30036,Inala
+30037,Ipswich
+30038,Ipswich West
+30039,Jordan
+30040,Kawana
+30041,Keppel
+30042,Kurwongbah
+30043,Lockyer
+30044,Logan
+30045,Lytton
+30046,Macalister
+30047,Mackay
+30048,Maiwar
+30049,Mansfield
+30050,Maroochydore
+30051,Maryborough
+30052,McConnel
+30053,Mermaid Beach
+30054,Miller
+30055,Mirani
+30056,Moggill
+30057,Morayfield
+30058,Mount Ommaney
+30059,Mudgeeraba
+30060,Mulgrave
+30061,Mundingburra
+30062,Murrumba
+30063,Nanango
+30064,Nicklin
+30065,Ninderry
+30066,Noosa
+30067,Nudgee
+30068,Oodgeroo
+30069,Pine Rivers
+30070,Pumicestone
+30071,Redcliffe
+30072,Redlands
+30073,Rockhampton
+30074,Sandgate
+30075,Scenic Rim
+30076,South Brisbane
+30077,Southern Downs
+30078,Southport
+30079,Springwood
+30080,Stafford
+30081,Stretton
+30082,Surfers Paradise
+30083,Theodore
+30084,Thuringowa
+30085,Toohey
+30086,Toowoomba North
+30087,Toowoomba South
+30088,Townsville
+30089,Traeger
+30090,Warrego
+30091,Waterford
+30092,Whitsunday
+30093,Woodridge
+39494,No usual address (Qld)
+39797,Migratory - Offshore - Shipping (Qld)
+40001,Adelaide
+40002,Badcoe
+40003,Black
+40004,Bragg
+40005,Chaffey
+40006,Cheltenham
+40007,Colton
+40008,Croydon
+40009,Davenport
+40010,Dunstan
+40011,Elder
+40012,Elizabeth
+40013,Enfield
+40014,Finniss
+40015,Flinders
+40016,Florey
+40017,Frome
+40018,Gibson
+40019,Giles
+40020,Hammond
+40021,Hartley
+40022,Heysen
+40023,Hurtle Vale
+40024,Kaurna
+40025,Kavel
+40026,King
+40027,Lee
+40028,Light
+40029,Mackillop
+40030,Mawson
+40031,Morialta
+40032,Morphett
+40033,Mount Gambier
+40034,Narungga
+40035,Newland
+40036,Playford
+40037,Port Adelaide
+40038,Ramsay
+40039,Reynell
+40040,Schubert
+40041,Stuart
+40042,Taylor
+40043,Torrens
+40044,Unley
+40045,Waite
+40046,West Torrens
+40047,Wright
+49494,No usual address (SA)
+49797,Migratory - Offshore - Shipping (SA)
+50106,Albany (South West)
+50202,Armadale (East Metropolitan)
+50304,Balcatta (North Metropolitan)
+50405,Baldivis (South Metropolitan)
+50502,Bassendean (East Metropolitan)
+50605,Bateman (South Metropolitan)
+50702,Belmont (East Metropolitan)
+50805,Bicton (South Metropolitan)
+50906,Bunbury (South West)
+51004,Burns Beach (North Metropolitan)
+51104,Butler (North Metropolitan)
+51205,Cannington (South Metropolitan)
+51304,Carine (North Metropolitan)
+51401,Central Wheatbelt (Agricultural)
+51504,Churchlands (North Metropolitan)
+51605,Cockburn (South Metropolitan)
+51706,Collie-Preston (South West)
+51804,Cottesloe (North Metropolitan)
+51902,Darling Range (East Metropolitan)
+52006,Dawesville (South West)
+52102,Forrestfield (East Metropolitan)
+52205,Fremantle (South Metropolitan)
+52301,Geraldton (Agricultural)
+52404,Hillarys (North Metropolitan)
+52505,Jandakot (South Metropolitan)
+52604,Joondalup (North Metropolitan)
+52702,Kalamunda (East Metropolitan)
+52803,Kalgoorlie (Mining and Pastoral)
+52903,Kimberley (Mining and Pastoral)
+53004,Kingsley (North Metropolitan)
+53105,Kwinana (South Metropolitan)
+53204,Landsdale (North Metropolitan)
+53306,Mandurah (South West)
+53402,Maylands (East Metropolitan)
+53502,Midland (East Metropolitan)
+53602,Mirrabooka (East Metropolitan)
+53701,Moore (Agricultural)
+53802,Morley (East Metropolitan)
+53902,Mount Lawley (East Metropolitan)
+54006,Murray-Wellington (South West)
+54104,Nedlands (North Metropolitan)
+54203,North West Central (Mining and Pastoral)
+54304,Perth (North Metropolitan)
+54403,Pilbara (Mining and Pastoral)
+54505,Riverton (South Metropolitan)
+54605,Rockingham (South Metropolitan)
+54701,Roe (Agricultural)
+54804,Scarborough (North Metropolitan)
+54905,South Perth (South Metropolitan)
+55005,Southern River (South Metropolitan)
+55102,Swan Hills (East Metropolitan)
+55202,Thornlie (East Metropolitan)
+55306,Vasse (South West)
+55405,Victoria Park (South Metropolitan)
+55504,Wanneroo (North Metropolitan)
+55605,Warnbro (South Metropolitan)
+55706,Warren-Blackwood (South West)
+55802,West Swan (East Metropolitan)
+55905,Willagee (South Metropolitan)
+59494,No usual address (WA)
+59797,Migratory - Offshore - Shipping (WA)
+60105,Bass (Launceston)
+60106,Bass (McIntyre)
+60113,Bass (Rosevears)
+60115,Bass (Windermere)
+60207,Braddon (Mersey)
+60208,Braddon (Montgomery)
+60209,Braddon (Murchison)
+60301,Clark (Derwent)
+60302,Clark (Elwick)
+60303,Clark (Hobart)
+60304,Clark (Huon)
+60310,Clark (Nelson)
+60404,Franklin (Huon)
+60410,Franklin (Nelson)
+60411,Franklin (Pembroke)
+60414,Franklin (Rumney)
+60501,Lyons (Derwent)
+60505,Lyons (Launceston)
+60506,Lyons (McIntyre)
+60508,Lyons (Montgomery)
+60512,Lyons (Prosser)
+60514,Lyons (Rumney)
+69494,No usual address (Tas.)
+69797,Migratory - Offshore - Shipping (Tas.)
+70001,Arafura
+70002,Araluen
+70003,Arnhem
+70004,Barkly
+70005,Blain
+70006,Braitling
+70007,Brennan
+70008,Casuarina
+70009,Daly
+70010,Drysdale
+70011,Fannie Bay
+70012,Fong Lim
+70013,Goyder
+70014,Gwoja
+70015,Johnston
+70016,Karama
+70017,Katherine
+70018,Mulka
+70019,Namatjira
+70020,Nelson
+70021,Nightcliff
+70022,Port Darwin
+70023,Sanderson
+70024,Spillett
+70025,Wanguri
+79494,No usual address (NT)
+79797,Migratory - Offshore - Shipping (NT)
+80001,Brindabella
+80002,Ginninderra
+80003,Kurrajong
+80004,Murrumbidgee
+80005,Yerrabi
+89494,No usual address (ACT)
+89797,Migratory - Offshore - Shipping (ACT)
+99191,Unclassified (OT)
+99494,No usual address (OT)
+99797,Migratory - Offshore - Shipping (OT)
+ZZZZZ,Outside Australia

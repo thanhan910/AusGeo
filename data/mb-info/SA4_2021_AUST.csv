@@ -1,0 +1,109 @@
+SA4_CODE_2021,SA4_NAME_2021,CHANGE_FLAG_2021,AREA_ALBERS_SQKM,GCCSA_CODE_2021
+101,Capital Region,0,51896.2444,1RNSW
+102,Central Coast,0,1681.0088,1GSYD
+103,Central West,0,70297.06,1RNSW
+104,Coffs Harbour - Grafton,0,13229.7577,1RNSW
+105,Far West and Orana,0,339355.6461,1RNSW
+106,Hunter Valley exc Newcastle,0,21491.2917,1RNSW
+107,Illawarra,0,1539.2405,1RNSW
+108,Mid North Coast,0,18851.4986,1RNSW
+109,Murray,0,97796.4898,1RNSW
+110,New England and North West,0,99139.8999,1RNSW
+111,Newcastle and Lake Macquarie,0,870.5821,1RNSW
+112,Richmond - Tweed,0,10271.3201,1RNSW
+113,Riverina,0,56984.9805,1RNSW
+114,Southern Highlands and Shoalhaven,0,6704.9619,1RNSW
+115,Sydney - Baulkham Hills and Hawkesbury,0,3251.4981,1GSYD
+116,Sydney - Blacktown,0,240.8835,1GSYD
+117,Sydney - City and Inner South,0,66.1035,1GSYD
+118,Sydney - Eastern Suburbs,0,57.7342,1GSYD
+119,Sydney - Inner South West,0,163.9272,1GSYD
+120,Sydney - Inner West,0,64.5491,1GSYD
+121,Sydney - North Sydney and Hornsby,0,275.0994,1GSYD
+122,Sydney - Northern Beaches,0,254.2072,1GSYD
+123,Sydney - Outer South West,0,1277.2421,1GSYD
+124,Sydney - Outer West and Blue Mountains,0,3968.1294,1GSYD
+125,Sydney - Parramatta,0,162.835,1GSYD
+126,Sydney - Ryde,0,69.3368,1GSYD
+127,Sydney - South West,0,540.279,1GSYD
+128,Sydney - Sutherland,0,295.8525,1GSYD
+197,Migratory - Offshore - Shipping (NSW),0,,19799
+199,No usual address (NSW),0,,19499
+201,Ballarat,0,10287.4757,2RVIC
+202,Bendigo,0,11841.9058,2RVIC
+203,Geelong,0,4428.699,2RVIC
+204,Hume,0,34006.4765,2RVIC
+205,Latrobe - Gippsland,0,41553.1093,2RVIC
+206,Melbourne - Inner,0,142.4579,2GMEL
+207,Melbourne - Inner East,0,146.7436,2GMEL
+208,Melbourne - Inner South,0,161.4964,2GMEL
+209,Melbourne - North East,0,1851.2647,2GMEL
+210,Melbourne - North West,0,1619.6884,2GMEL
+211,Melbourne - Outer East,0,1878.5577,2GMEL
+212,Melbourne - South East,0,1922.2794,2GMEL
+213,Melbourne - West,0,1416.3538,2GMEL
+214,Mornington Peninsula,0,853.7662,2GMEL
+215,North West,0,78072.9843,2RVIC
+216,Shepparton,0,10933.8661,2RVIC
+217,Warrnambool and South West,0,26379.1231,2RVIC
+297,Migratory - Offshore - Shipping (Vic.),0,,29799
+299,No usual address (Vic.),0,,29499
+301,Brisbane - East,0,653.1329,3GBRI
+302,Brisbane - North,0,186.9483,3GBRI
+303,Brisbane - South,0,265.3445,3GBRI
+304,Brisbane - West,0,269.6508,3GBRI
+305,Brisbane Inner City,0,81.7393,3GBRI
+306,Cairns,0,21337.9778,3RQLD
+307,Darling Downs - Maranoa,0,166346.6638,3RQLD
+308,Central Queensland,0,117588.0016,3RQLD
+309,Gold Coast,0,1857.7774,3RQLD
+310,Ipswich,0,6681.1781,3GBRI
+311,Logan - Beaudesert,0,2586.163,3GBRI
+312,Mackay - Isaac - Whitsunday,0,90140.1884,3RQLD
+313,Moreton Bay - North,0,4344.4557,3GBRI
+314,Moreton Bay - South,0,773.3947,3GBRI
+315,Queensland - Outback,0,1183175.1279,3RQLD
+316,Sunshine Coast,0,3085.911,3RQLD
+317,Toowoomba,0,2258.7953,3RQLD
+318,Townsville,0,80036.0978,3RQLD
+319,Wide Bay,0,48502.6725,3RQLD
+397,Migratory - Offshore - Shipping (Qld),0,,39799
+399,No usual address (Qld),0,,39499
+401,Adelaide - Central and Hills,0,1497.2718,4GADE
+402,Adelaide - North,0,939.9938,4GADE
+403,Adelaide - South,0,663.0817,4GADE
+404,Adelaide - West,0,159.5386,4GADE
+405,Barossa - Yorke - Mid North,0,37716.3849,4RSAU
+406,South Australia - Outback,0,877772.5757,4RSAU
+407,South Australia - South East,0,65482.5737,4RSAU
+497,Migratory - Offshore - Shipping (SA),0,,49799
+499,No usual address (SA),0,,49499
+501,Bunbury,0,24802.4119,5RWAU
+502,Mandurah,0,1032.8629,5GPER
+503,Perth - Inner,0,92.2541,5GPER
+504,Perth - North East,0,1762.4319,5GPER
+505,Perth - North West,0,884.0128,5GPER
+506,Perth - South East,0,2023.9919,5GPER
+507,Perth - South West,0,621.0185,5GPER
+509,Western Australia - Wheat Belt,0,197345.5326,5RWAU
+510,Western Australia - Outback (North),0,926023.1631,5RWAU
+511,Western Australia - Outback (South),0,1372044.8028,5RWAU
+597,Migratory - Offshore - Shipping (WA),0,,59799
+599,No usual address (WA),0,,59499
+601,Hobart,0,1695.3611,6GHOB
+602,Launceston and North East,0,19975.336,6RTAS
+603,South East,0,23822.0525,6RTAS
+604,West and North West,0,22524.7897,6RTAS
+697,Migratory - Offshore - Shipping (Tas.),0,,69799
+699,No usual address (Tas.),0,,69499
+701,Darwin,0,3167.7034,7GDAR
+702,Northern Territory - Outback,0,1344966.7897,7RNTE
+797,Migratory - Offshore - Shipping (NT),0,,79799
+799,No usual address (NT),0,,79499
+801,Australian Capital Territory,0,2358.133,8ACTE
+897,Migratory - Offshore - Shipping (ACT),0,,89799
+899,No usual address (ACT),0,,89499
+901,Other Territories,0,255.742,9OTER
+997,Migratory - Offshore - Shipping (OT),0,,99799
+999,No usual address (OT),0,,99499
+ZZZ,Outside Australia,1,,ZZZZZ

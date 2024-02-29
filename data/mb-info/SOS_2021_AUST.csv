@@ -1,0 +1,54 @@
+SOS_CODE_2021,SOS_NAME_2021
+10,Major Urban
+11,Other Urban
+12,Bounded Locality
+13,Rural Balance
+17,Migratory - Offshore - Shipping (NSW)
+19,No usual address (NSW)
+20,Major Urban
+21,Other Urban
+22,Bounded Locality
+23,Rural Balance
+27,Migratory - Offshore - Shipping (Vic.)
+29,No usual address (Vic.)
+30,Major Urban
+31,Other Urban
+32,Bounded Locality
+33,Rural Balance
+37,Migratory - Offshore - Shipping (Qld)
+39,No usual address (Qld)
+40,Major Urban
+41,Other Urban
+42,Bounded Locality
+43,Rural Balance
+47,Migratory - Offshore - Shipping (SA)
+49,No usual address (SA)
+50,Major Urban
+51,Other Urban
+52,Bounded Locality
+53,Rural Balance
+57,Migratory - Offshore - Shipping (WA)
+59,No usual address (WA)
+60,Major Urban
+61,Other Urban
+62,Bounded Locality
+63,Rural Balance
+67,Migratory - Offshore - Shipping (Tas.)
+69,No usual address (Tas.)
+70,Major Urban
+71,Other Urban
+72,Bounded Locality
+73,Rural Balance
+77,Migratory - Offshore - Shipping (NT)
+79,No usual address (NT)
+80,Major Urban
+82,Bounded Locality
+83,Rural Balance
+87,Migratory - Offshore - Shipping (ACT)
+89,No usual address (ACT)
+91,Other Urban
+92,Bounded Locality
+93,Rural Balance
+97,Migratory - Offshore - Shipping (OT)
+99,No usual address (OT)
+ZZ,Outside Australia

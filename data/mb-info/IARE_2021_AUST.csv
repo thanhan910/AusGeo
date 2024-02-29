@@ -1,0 +1,432 @@
+IARE_CODE_2021,IARE_NAME_2021,AREA_ALBERS_SQKM,IREG_CODE_2021
+101001,Bogan,14999.2903,101
+101002,Dubbo,3803.0599,101
+101003,Gilgandra,4442.6569,101
+101004,Narromine,5956.2535,101
+101005,Parkes,5652.9204,101
+101006,Warren,9681.2509,101
+101007,Warrumbungle Shire,10474.1331,101
+101008,Wellington,4111.506,101
+102001,Armidale,3760.1185,102
+102002,Glen Innes,5479.977,102
+102003,Gunnedah,4941.2885,102
+102004,Guyra - Tingha,4678.1898,102
+102005,Inverell - Gwydir,17435.5101,102
+102006,Liverpool Plains,5077.8424,102
+102007,Moree,39.301,102
+102008,Moree Plains,18283.9055,102
+102009,Muswellbrook,3404.8841,102
+102010,Narrabri,13060.7347,102
+102011,Tamworth,9221.229,102
+102012,Tenterfield - Jubullum Village,7324.3072,102
+102013,Upper Hunter,8067.5327,102
+102014,Uralla - Walcha,9837.4962,102
+103001,Bourke,42028.1758,103
+103002,Brewarrina,18511.7678,103
+103003,Cobar - Murrin Bridge,45551.398,103
+103004,Coonamble,9628.5955,103
+103005,Far West,146854.847,103
+103006,Walgett,23312.7114,103
+104001,Ballina - Bagotville,480.5548,104
+104002,Byron,568.1142,104
+104003,Cessnock,1968.208,104
+104004,Clarence Valley,10456.0902,104
+104005,Coffs Harbour - Nambucca,4244.6096,104
+104006,Gloucester - Dungog,5183.8659,104
+104007,Gosford,941.2166,104
+104008,Great Lakes,3337.361,104
+104009,Kempsey,3868.3825,104
+104010,Kyogle,3551.7672,104
+104012,Lismore,1302.4913,104
+104013,Maitland,388.5306,104
+104014,Newcastle,188.7116,104
+104015,Port Macquarie - Hastings,3687.7694,104
+104016,Port Stephens,894.4919,104
+104017,Richmond Valley,3060.6073,104
+104018,Singleton,4348.5749,104
+104019,Taree,3741.2006,104
+104020,Tweed,1307.7853,104
+104022,Lake Macquarie,592.9006,104
+104023,Wyong,793.5169,104
+105001,Albury,353.5473,105
+105002,Balranald - Wentworth,49750.7498,105
+105003,Bathurst,3809.6,105
+105004,Blayney - Cabonne,6735.0681,105
+105005,Carrathool - Murrumbidgee,20437.2627,105
+105006,Central Murray,33818.6148,105
+105007,Coolamon - Temora - West Wyalong,16807.2401,105
+105008,Cootamundra,1656.1222,105
+105009,Cowra,2897.876,105
+105010,Deniliquin - Murray,4486.0315,105
+105011,Forbes,4227.7726,105
+105012,Griffith - Leeton,2761.3371,105
+105013,Gundagai - Junee - Harden,6252.0815,105
+105014,Lachlan,15858.8502,105
+105015,Lithgow - Oberon,8257.3647,105
+105016,Mudgee,10961.8425,105
+105017,Narrandera,3809.1326,105
+105018,Orange,284.2159,105
+105019,Tumut,4654.0518,105
+105020,Upper Murray,18640.9476,105
+105021,Wagga Wagga,4884.5837,105
+105022,Young,2643.8843,105
+106001,Bega Valley,7942.0818,106
+106002,Eurobodalla,1922.4058,106
+106003,Shoalhaven,4374.9473,106
+106004,Snowy - Monaro,20661.6093,106
+106005,Southern Tablelands,19881.9373,106
+107001,Auburn,32.4768,107
+107002,Baulkham Hills,400.4136,107
+107003,Blacktown,240.1335,107
+107004,Blue Mountains,942.4079,107
+107005,Botany Bay,16.6527,107
+107006,Camden,206.0613,107
+107007,Campbelltown,334.7054,107
+107008,Canterbury - Bankstown,110.7042,107
+107009,Fairfield,129.2872,107
+107010,Hawkesbury,2658.9641,107
+107011,Holroyd,41.221,107
+107012,Hornsby - Ku-ring-gai,551.6707,107
+107013,Hunters Hill - Ryde,46.1915,107
+107014,Hurstville - Kogarah,38.3058,107
+107015,Kiama - Shellharbour,390.7982,107
+107016,Leichhardt,10.6577,107
+107017,Liverpool,274.596,107
+107018,Lord Howe Island,16.2918,107
+107019,Marrickville,16.6539,107
+107020,Northern Beaches,254.2072,107
+107021,Parramatta,60.3762,107
+107022,Penrith,415.6188,107
+107023,Randwick - La Perouse,36.331,107
+107024,Rockdale,33.9677,107
+107025,Sutherland Shire,296.251,107
+107026,Sydney - City,26.3616,107
+107027,Sydney - Inner West,48.9007,107
+107028,Sydney - Lower North,52.0459,107
+107029,Wollondilly,3390.8841,107
+107030,Wollongong,404.1,107
+107031,Woollahra - Waverley,21.6295,107
+194994,No usual address (NSW),,194
+197997,Migratory - Offshore - Shipping (NSW),,197
+201001,Brimbank,123.3991,201
+201002,Cardinia,1283.289,201
+201003,Craigieburn - Sunbury,459.4733,201
+201004,Cranbourne - Narre Warren,409.4287,201
+201005,Frankston,220.9657,201
+201006,Greater Dandenong,129.5466,201
+201007,Knox,118.3018,201
+201008,Maribyrnong - Moonee Valley,74.3536,201
+201009,Maroondah,61.4097,201
+201010,Melbourne - East,161.5688,201
+201011,Melbourne - North-East,609.9052,201
+201012,Melbourne - Port Phillip,77.712,201
+201013,Melton,527.5374,201
+201014,Monash,81.4829,201
+201015,Moreland - Broadmeadows,95.3277,201
+201016,Mornington Peninsula,724.1681,201
+201017,Northcote - Preston - Whittlesea,543.165,201
+201018,Whitehorse,64.2757,201
+201019,Wyndham - Altona,606.3348,201
+201020,Yarra Ranges,2461.5792,201
+202001,Ballarat,1200.4105,202
+202002,Baw Baw,3996.3353,202
+202003,Bendigo,3281.3322,202
+202004,Campaspe - Shepparton - Moira,10933.8661,202
+202005,Castlemaine - Kerang,22169.681,202
+202006,Geelong - Queenscliff,1256.6038,202
+202007,Gippsland,31757.9811,202
+202008,Latrobe,1374.6943,202
+202009,Macedon Ranges - Moorabool,3845.8889,202
+202010,Mildura,22081.9206,202
+202011,South Gippsland - Bass Coast,4424.0986,202
+202012,South-West Central Victoria,25210.68,202
+202013,Southern Grampians - Glenelg,12946.3914,202
+202014,Swan Hill,6067.7652,202
+202015,Upper Goulburn Valley,13613.5166,202
+202016,Wallan - Seymour,2737.4083,202
+202017,Warrnambool,182.6156,202
+202018,Wimmera,33955.3042,202
+202019,Wodonga,17626.5299,202
+294994,No usual address (Vic.),,294
+297997,Migratory - Offshore - Shipping (Vic.),,297
+301001,Beaudesert - Boonah,4251.8807,301
+301002,Brisbane City,1349.6002,301
+301003,Caboolture,1267.6014,301
+301004,Caloundra,1039.8549,301
+301005,Esk - Kilcoy,5370.6539,301
+301006,Gatton - Laidley,2271.785,301
+301007,Gold Coast,1333.386,301
+301008,Ipswich,1078.1043,301
+301009,Logan,958.1333,301
+301010,Maroochy,1177.2738,301
+301011,Noosa,868.7823,301
+301012,Pine Rivers,773.3947,301
+301013,Redcliffe,38.2742,301
+301014,Redland,537.1672,301
+303001,Aurukun,7423.9891,303
+303002,Cape York,107605.5509,303
+303003,Cooktown,24.4864,303
+303004,Hope Vale,1111.7099,303
+303005,Kowanyama,2555.3325,303
+303006,Lockhart River,4200.782,303
+303007,Mapoon - Napranum - Weipa,33.1158,303
+303008,Northern Peninsula Area,1546.7024,303
+303009,Pormpuraaw,4395.3654,303
+304001,Boulia - Diamantina - Winton,209442.3811,304
+304002,Carpentaria - Burke - Mornington,114443.5786,304
+304003,Cloncurry - McKinlay,88708.0584,304
+304004,Mount Isa,36149.1996,304
+305001,Banana,28550.1865,305
+305002,Barcaldine - Blackall - Longreach,124492.1462,305
+305003,Bundaberg,6431.0889,305
+305004,Central Capricorn,60225.3937,305
+305005,Fraser Coast,7004.5083,305
+305006,Gladstone,10484.2861,305
+305007,Nebo - Clermont,58707.9192,305
+305008,North Burnett,19669.8489,305
+305009,Rockhampton - Yeppoon,18328.1353,305
+306001,Balonne,31104.0851,306
+306002,Bulloo - Quilpie - Barcoo,202966.8343,306
+306003,Cherbourg,31.6002,306
+306004,Cooloola - Gympie,3714.1975,306
+306005,Dalby,28.0063,306
+306006,Goondiwindi - Stanthorpe,21044.3161,306
+306007,Jondaryan - Oakey,1844.4963,306
+306008,Maranoa - Roma - Mitchell,58704.3911,306
+306009,Murgon,579.8277,306
+306010,Murweh,40699.7586,306
+306011,Nanango - Kilkivan,4909.773,306
+306012,Paroo,47614.9225,306
+306013,South Burnett,6161.828,306
+306014,Southern Downs,4477.8468,306
+306015,Toowoomba - Central,142.3219,306
+306016,Toowoomba - North,4024.562,306
+306017,Toowoomba - South,6934.1341,306
+306018,Western Downs,38771.1032,306
+307001,Kaiwalagal - Inner Islands,330.9326,307
+307002,Kalakawal - Top Western Islands,207.8099,307
+307003,Kalalagal - Western Islands,296.4619,307
+307004,Kulkalgal - Central Islands,32.6846,307
+307005,Meriam - Eastern Islands,11.2617,307
+309001,Atherton,622.4878,309
+309002,Cairns,327.99,309
+309003,Cairns - Far North Coast,619.2254,309
+309004,Cairns - Southern Hinterlands,1750.7014,309
+309005,Eacham,867.6794,309
+309006,Herberton - Ravenshoe,9566.224,309
+309007,Innisfail - Johnstone,1495.9266,309
+309008,Kuranda - Croydon,122151.1909,309
+309009,Mareeba,20.5466,309
+309010,Tully - Cardwell - Jumbun,3055.5178,309
+309011,Wujal Wujal and Outstations,1803.0278,309
+309012,Yarrabah,158.8381,309
+310001,Bowen (Qld),21144.8646,310
+310002,Burdekin - Ayr,4948.4594,310
+310003,Charters Towers,41.8593,310
+310004,Flinders - Richmond - Dalrymple,136120.9906,310
+310005,Ingham - Hinchinbrook,2807.1889,310
+310006,Mackay,238.8744,310
+310007,Mackay - Surrounds,2610.6357,310
+310008,Mirani,3324.1403,310
+310009,Palm Island,71.9928,310
+310010,Proserpine - Whitsunday,2674.1083,310
+310011,Sarina,1439.6459,310
+310012,Thuringowa,242.2022,310
+310013,Townsville,166.1413,310
+310014,Townsville - Surrounds,3417.9488,310
+394994,No usual address (Qld),,394
+397997,Migratory - Offshore - Shipping (Qld),,397
+401001,Adelaide - Prospect - Walkerville,26.8948,401
+401002,Adelaide Hills - Mount Barker,1387.0378,401
+401003,Barossa,3101.755,401
+401004,Berri - Barmera,792.0857,401
+401005,Campbelltown - Norwood,41.5506,401
+401006,Charles Sturt,54.4513,401
+401007,Fleurieu - Kangaroo Island,7363.5869,401
+401008,Gawler,42.2619,401
+401009,Holdfast Bay - West Torrens,51.1175,401
+401010,Loxton - Waikerie - Mid Murray,13954.7067,401
+401011,Marion,55.5367,401
+401012,Murray Bridge,1925.7329,401
+401013,Murray Mallee,19193.6315,401
+401014,Onkaparinga,518.1954,401
+401015,Playford,346.7279,401
+401016,Port Adelaide - Enfield,100.6388,401
+401017,Renmark Paringa,916.442,401
+401018,Salisbury,159.2354,401
+401019,South-East,21336.388,401
+401020,Tea Tree Gully,94.2993,401
+401021,Unley - Burnside - Mitcham,117.3354,401
+401022,Wakefield - Clare and Gilbert Valleys,5327.9234,401
+401023,Yorke Peninsula,8393.6768,401
+402001,Anangu Pitjantjatjara,102359.1511,402
+402002,Coober Pedy - Umoona,77.6795,402
+402003,Eyre,514889.2223,402
+402004,Flinders,25228.1155,402
+402005,Port Augusta,1157.9905,402
+402006,Whyalla,24877.4725,402
+403001,Ceduna,5163.8798,403
+403002,Ceduna - West Coast,225136.3595,403
+403003,Port Lincoln,40.3378,403
+494994,No usual address (SA),,494
+497997,Migratory - Offshore - Shipping (SA),,497
+501001,Broome,260.6855,501
+501002,Broome - Surrounds,55132.8625,501
+502001,Carnarvon - Mungullah,78.2669,502
+502002,Carnegie South - Mount Magnet,133041.1613,502
+502003,Central West Coast,26144.4727,502
+502004,Geraldton,289.575,502
+502005,Irwin - Morawa,25833.66,502
+502006,Meekathara - Karalundi,100188.5478,502
+502007,Shark Bay - Coral Bay - Upper Gascoyne,128507.8609,502
+503001,Esperance - Ravensthorpe,55660.6599,503
+503002,Kalgoorlie - Dundas - Goldfields,218581.6465,503
+503003,Kalgoorlie - Ningia Mia,102.71,503
+503004,Laverton - Ngaanyatjarraku,339788.4285,503
+503005,Menzies - Leonora,156030.4802,503
+503006,Warburton,21.5057,503
+503007,Wiluna,181297.3382,503
+504001,Argyle - Warmun,19028.6518,504
+504002,Great Sandy Desert,104459.4731,504
+504003,Halls Creek,45.1727,504
+504004,Halls Creek - Surrounds,30820.4286,504
+504005,Kalumburu,4.0475,504
+504006,Kununurra,14.9384,504
+504007,North Kimberley,98677.6764,504
+504008,Wyndham,2.2361,504
+505001,Armadale,559.5258,505
+505002,Bassendean,10.3449,505
+505003,Bayswater,32.4775,505
+505004,Belmont,25.9414,505
+505005,Canning,65.0429,505
+505006,Cockburn,179.849,505
+505007,Fremantle,22.4276,505
+505008,Gosnells,127.2976,505
+505009,Joondalup,99.017,505
+505010,Kalamunda,283.8001,505
+505011,Kwinana,120.0123,505
+505012,Melville,53.4537,505
+505013,Mundaring - Swan View,683.1714,505
+505014,Perth,79.7179,505
+505015,Rockingham,245.2759,505
+505016,Serpentine - Jarrahdale,904.7635,505
+505017,South Perth - Victoria Park,37.2985,505
+505018,Stirling,111.8624,505
+505019,Swan,1056.7602,505
+505020,Wanneroo - North-East,561.621,505
+505021,Yanchep - Two Rocks,124.0486,505
+506001,East Pilbara,372295.6721,506
+506002,Exmouth - Ashburton,107305.5209,506
+506003,Karratha,134.2041,506
+506004,Port Hedland,18416.3139,506
+506005,Roebourne - Wickham,15104.8531,506
+507001,Albany,4308.458,507
+507002,Avon,33209.435,507
+507003,Bunbury,65.4565,507
+507004,Busselton,1423.304,507
+507005,Campion,60004.4862,507
+507006,Harvey and Surrounds,1727.9415,507
+507007,Hotham - Kulin,36107.0275,507
+507008,Kojonup - Gnowangerup,23567.3248,507
+507009,Mandurah,224.0036,507
+507010,Manjimup - Denmark - Plantagenet,14394.9541,507
+507011,Moora - Chittering,17453.8724,507
+507012,Murray - Waroona - Boddington,4387.5115,507
+507013,Narrogin - Wagin - Katanning,12556.3749,507
+507014,Northam,26.7836,507
+507015,South-West,13723.8738,507
+508001,Derby - Mowanjum,22.3537,508
+508003,Fitzroy River,32287.8531,508
+508005,Fitzroy Crossing,9032.5999,508
+508006,Outer Derby - West Kimberley,69456.1089,508
+594994,No usual address (WA),,594
+597997,Migratory - Offshore - Shipping (WA),,597
+601001,Central Coast - Devonport,1066.2031,601
+601002,Central Tasmania,23726.8531,601
+601003,Greater Hobart,773.9498,601
+601004,Huon Valley,1749.2174,601
+601005,Kingborough,685.8432,601
+601006,Launceston,1425.3069,601
+601007,Meander Valley - Kentish,4549.1786,601
+601008,Tasmania - North-East Coast,9248.6529,601
+601009,Tasmania - South-East Coast,3794.4919,601
+601010,Tasmania - West Coast,19723.7909,601
+601011,West Tamar - Latrobe,1274.0515,601
+694994,No usual address (Tas.),,694
+697997,Migratory - Offshore - Shipping (Tas.),,697
+703001,Alawa - Brinkin - Nakara,3.926,703
+703002,Anula - Wulagi,2.5807,703
+703003,Coconut Grove - Ludmilla,5.3696,703
+703004,Cox - Finniss - Coomalie,7822.6772,703
+703005,Darwin - Inner Suburbs,16.5509,703
+703006,Karama,2.0655,703
+703007,Litchfield,2956.6023,703
+703008,Malak,1.7493,703
+703009,Marrara - Winnellie - Berrimah,80.7128,703
+703010,Millner - Jingili,2.784,703
+703011,Moil - Wagaman - Wanguri,2.7657,703
+703012,Nightcliff - Rapid Creek,3.3688,703
+703013,Palmerston,52.6559,703
+703014,Tiwi - Lyons - Leanyer,36.5719,703
+704001,Douglas-Daly,34828.0715,704
+704002,Kakadu - Marrakai - Jabiru,25277.9881,704
+704003,Maningrida and Outstations,9769.0926,704
+704004,North-West Arnhem,23740.15,704
+704005,Thamarrurr inc. Wadeye,3373.7078,704
+704006,Tiwi Islands,7483.1661,704
+705001,Borroloola,12.5634,705
+705002,Daguragu - Kalkarindji and Outstations,50.4071,705
+705003,Elsey - Roper,92949.7346,705
+705004,Gulf,87835.0886,705
+705005,Katherine Town,7416.9497,705
+705006,Lajamanu,6.7088,705
+705007,Ngukurr,12.0357,705
+705008,Victoria River,106082.7948,705
+705009,Walangeri,27468.9308,705
+706001,Anindilyakwa (Groote),2609.0396,706
+706002,Gapuwiyak and Outstations,6353.2809,706
+706003,Laynhapuy - Gumatj Homelands,7906.127,706
+706004,Marthakal Homelands - Galiwinku,5182.3657,706
+706005,Nhulunbuy - Gunyangara,85.5034,706
+706006,Numbulwar and Outstations,4418.5473,706
+706007,Ramingining - Milingimbi and Outstations,11461.8449,706
+706008,Yirrkala,8.4278,706
+707001,Ali Curung,443.1496,707
+707002,Alpurrurulam,9.9926,707
+707003,Barkly,302710.7842,707
+707004,Elliott,2.996,707
+707005,Tennant Creek Town,42.0605,707
+707006,Wutunugurra - Canteen Creek,2.1975,707
+708001,Alice exc. Town Camps,320.7138,708
+708002,Alice Springs Town Camps,6.9994,708
+709001,Amoonguna - Santa Teresa - Titjikala,32774.1255,709
+709002,Ampilatwatja and Outstations,15124.1872,709
+709003,Anmatjere,49683.763,709
+709004,Apatula (Finke) and Homelands,87614.3592,709
+709005,Atitjere - Akarnenehe - Engawala,67466.6813,709
+709006,Haasts Bluff - Mount Liebig (Watiyawanu),3553.9002,709
+709007,Hermannsburg,13.3095,709
+709008,Kaltukatjara and Outstations,87511.8426,709
+709009,Mutitjulu - Uluru - Imanpa,121.9117,709
+709010,Nyirripi and Tanami Outstations,142019.5548,709
+709011,Papunya and Outstations,2330.9373,709
+709012,Urapuntja,4375.0469,709
+709013,Walungurru and Outstations,28762.8798,709
+709014,West MacDonnell Ranges,25758.8796,709
+709015,Willowra,13.7451,709
+709016,Yuelamu,26.6195,709
+709017,Yuendumu and Outstations,22120.9495,709
+794994,No usual address (NT),,794
+797997,Migratory - Offshore - Shipping (NT),,797
+801001,Canberra - North,437.6545,801
+801002,Canberra - South,278.865,801
+801003,Stromlo - Namadgi,1641.6135,801
+894994,No usual address (ACT),,894
+897997,Migratory - Offshore - Shipping (ACT),,897
+901001,Christmas Island,136.1356,901
+901002,Cocos (Keeling) Islands,13.7258,901
+902001,Jervis Bay,67.2296,902
+903001,Norfolk Island,38.651,903
+994994,No usual address (OT),,994
+997997,Migratory - Offshore - Shipping (OT),,997
+ZZZZZZ,Outside Australia,,ZZZ

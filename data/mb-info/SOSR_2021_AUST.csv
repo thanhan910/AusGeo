@@ -1,0 +1,91 @@
+SOSR_CODE_2021,SOSR_NAME_2021,SOS_CODE_2021
+101,1 million or more,10
+102,"250,000 to 999,999",10
+111,"50,000 to 99,999",11
+112,"20,000 to 49,999",11
+113,"10,000 to 19,999",11
+114,"5,000 to 9,999",11
+115,"4,999 or less",11
+121,500 or more,12
+122,499 or less,12
+131,Remainder of State/Territory,13
+179,Migratory - Offshore - Shipping (NSW),17
+199,No usual address (NSW),19
+201,1 million or more,20
+203,"100,000 to 249,999",20
+211,"50,000 to 99,999",21
+212,"20,000 to 49,999",21
+213,"10,000 to 19,999",21
+214,"5,000 to 9,999",21
+215,"4,999 or less",21
+221,500 or more,22
+222,499 or less,22
+231,Remainder of State/Territory,23
+279,Migratory - Offshore - Shipping (Vic.),27
+299,No usual address (Vic.),29
+301,1 million or more,30
+302,"250,000 to 999,999",30
+303,"100,000 to 249,999",30
+311,"50,000 to 99,999",31
+312,"20,000 to 49,999",31
+313,"10,000 to 19,999",31
+314,"5,000 to 9,999",31
+315,"4,999 or less",31
+321,500 or more,32
+322,499 or less,32
+331,Remainder of State/Territory,33
+379,Migratory - Offshore - Shipping (Qld),37
+399,No usual address (Qld),39
+401,1 million or more,40
+412,"20,000 to 49,999",41
+413,"10,000 to 19,999",41
+414,"5,000 to 9,999",41
+415,"4,999 or less",41
+421,500 or more,42
+422,499 or less,42
+431,Remainder of State/Territory,43
+479,Migratory - Offshore - Shipping (SA),47
+499,No usual address (SA),49
+501,1 million or more,50
+511,"50,000 to 99,999",51
+512,"20,000 to 49,999",51
+513,"10,000 to 19,999",51
+514,"5,000 to 9,999",51
+515,"4,999 or less",51
+521,500 or more,52
+522,499 or less,52
+531,Remainder of State/Territory,53
+579,Migratory - Offshore - Shipping (WA),57
+599,No usual address (WA),59
+603,"100,000 to 249,999",60
+611,"50,000 to 99,999",61
+612,"20,000 to 49,999",61
+613,"10,000 to 19,999",61
+614,"5,000 to 9,999",61
+615,"4,999 or less",61
+621,500 or more,62
+622,499 or less,62
+631,Remainder of State/Territory,63
+679,Migratory - Offshore - Shipping (Tas.),67
+699,No usual address (Tas.),69
+703,"100,000 to 249,999",70
+712,"20,000 to 49,999",71
+714,"5,000 to 9,999",71
+715,"4,999 or less",71
+721,500 or more,72
+722,499 or less,72
+731,Remainder of State/Territory,73
+779,Migratory - Offshore - Shipping (NT),77
+799,No usual address (NT),79
+802,"250,000 to 999,999",80
+822,499 or less,82
+831,Remainder of State/Territory,83
+879,Migratory - Offshore - Shipping (ACT),87
+899,No usual address (ACT),89
+915,"4,999 or less",91
+921,500 or more,92
+922,499 or less,92
+931,Remainder of State/Territory,93
+979,Migratory - Offshore - Shipping (OT),97
+999,No usual address (OT),99
+ZZZ,Outside Australia,ZZ
