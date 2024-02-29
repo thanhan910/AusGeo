@@ -2,6 +2,10 @@
 
 This repository contains the code and data for the analysis of Australian geographical data, including mesh blocks, postcodes, and suburbs GeoJSON data. The analysis is done using Python, and the main data source is the Australian Bureau of Statistics (ABS) and other open data sources.
 
+## Previous repositories
+- https://github.com/thanhan910/AusGeo-old-1
+- https://github.com/thanhan910/SuburbSelect (analysis folder)
+
 ## Data sources
 
 - Australian Statistical Geography Standard (ASGS) Edition 3
@@ -28,5 +32,3 @@ This repository contains the code and data for the analysis of Australian geogra
 ## Instructions
 
 This repository has downloaded data from ABS and uploaded it to the `data` directory. All rights to the data belong to the ABS.
-
-Instructions for loading the downloaded data from this repository are provided in the load-data.ipynb notebook.
