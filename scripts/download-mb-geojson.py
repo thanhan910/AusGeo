@@ -37,7 +37,7 @@ gdf : gpd.GeoDataFrame = gpd.read_file('../local/MB-SHP/MB_2021_AUST_GDA2020.shp
 # Select only the columns of interest and rename the 'MB_CODE21' column to 'id'
 gdf = gdf[['MB_CODE21', 'geometry', 'SA4_CODE21']].rename(columns={'MB_CODE21': 'id'})
 
-# 200s - 3m - 4m
+# 200s - 3m - 4m - 6m - 10m
 
 end_time = time.perf_counter()
 logging.info(f"Time taken: {end_time - start_time} seconds")
